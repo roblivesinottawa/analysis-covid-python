@@ -7,4 +7,4 @@
 	Matplotlib
 	Seaborn
 
-- The data used was based on data as of May 25th, 2020. It is a daily report data published by John Hopkins University.
+- The data used was based on data as of 01-01-2021. It is a daily report data published by John Hopkins University.
